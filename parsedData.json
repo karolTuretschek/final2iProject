@@ -1,0 +1,367 @@
+{
+  "data": [
+    {
+      "o;?\"firstName\"": "Andrew",
+      "lastName": "Baxter",
+      "email": "andrewbaxter@googlemail.com",
+      "car": "Vauxhall Astra"
+    },
+    {
+      "o;?\"firstName\"": "Sarah",
+      "lastName": "James",
+      "email": "sarahjames@helloworld.com",
+      "car": "Range Rover Vogue"
+    },
+    {
+      "o;?\"firstName\"": "Steven",
+      "lastName": "Barry",
+      "email": "stevenbarry@aol.com",
+      "car": "Ford Focus ST"
+    },
+    {
+      "o;?\"firstName\"": "Joseph",
+      "lastName": "Owen",
+      "email": "josephowen@aol.com",
+      "car": "Audi R8"
+    },
+    {
+      "o;?\"firstName\"": "Ashley",
+      "lastName": "Smith",
+      "email": "ashleysmith@hotmail.co.uk",
+      "car": "Audi A3"
+    },
+    {
+      "o;?\"firstName\"": "Margaret"
+    },
+    {
+      "o;?\"firstName\"": "James"
+    },
+    {
+      "o;?\"firstName\"": "David",
+      "lastName": "McGregor",
+      "email": "davidmcgregor@aol.com",
+      "car": "Audi A3"
+    },
+    {
+      "o;?\"firstName\"": "Jessica",
+      "lastName": "Owen",
+      "email": "jessicaowen@hotmail.co.uk",
+      "car": "Audi R8"
+    },
+    {
+      "o;?\"firstName\"": "Elizabeth",
+      "lastName": "Murray",
+      "email": "elizabethmurray@aol.com",
+      "car": "Ford Fiesta ST"
+    },
+    {
+      "o;?\"firstName\"": "Martin",
+      "lastName": "Weir",
+      "email": "martinweir@example.com",
+      "car": "Range Rover Sport"
+    },
+    {
+      "o;?\"firstName\"": "Mary",
+      "lastName": "Martin",
+      "email": "marymartin@live.co.uk",
+      "car": "Audi A1"
+    },
+    {
+      "o;?\"firstName\"": "Michael",
+      "lastName": "Norman",
+      "email": "michaelnorman@hotmail.co.uk",
+      "car": "Mercedes-Benz A Class AMG"
+    },
+    {
+      "o;?\"firstName\"": "Joanna",
+      "lastName": "Jenkins",
+      "email": "joannajenkins@hotmail.co.uk",
+      "car": "Mercedes-Benz C Class AMG"
+    },
+    {
+      "o;?\"firstName\"": "Mark",
+      "lastName": "Hayes",
+      "email": "markhayes@gmail.com",
+      "car": "Range Rover Vogue"
+    },
+    {
+      "o;?\"firstName\"": "Matthew",
+      "lastName": "Baxter",
+      "email": "matthewbaxter@googlemail.com",
+      "car": "Land Rover Discovery"
+    },
+    {
+      "o;?\"firstName\"": "Patricia",
+      "lastName": "Brown",
+      "email": "patriciabrown@aol.com",
+      "car": "Audi A1"
+    },
+    {
+      "o;?\"firstName\"": "Sarah"
+    },
+    {
+      "o;?\"firstName\"": "Anthony"
+    },
+    {
+      "o;?\"firstName\"": "Elizabeth",
+      "lastName": "Weir",
+      "email": "elizabethweir@googlemail.com",
+      "car": "Mercedes-Benz A Class AMG"
+    },
+    {
+      "o;?\"firstName\"": "Patricia",
+      "lastName": "Martin",
+      "email": "patriciamartin@aol.com",
+      "car": "Audi A4"
+    },
+    {
+      "o;?\"firstName\"": "Matthew",
+      "lastName": "James",
+      "email": "matthewjames@live.co.uk",
+      "car": "Range Rover Vogue"
+    },
+    {
+      "o;?\"firstName\"": "John",
+      "lastName": "Murray",
+      "email": "johnmurray@gmail.com",
+      "car": "Audi A4"
+    },
+    {
+      "o;?\"firstName\"": "Betty",
+      "lastName": "Hayes",
+      "email": "bettyhayes@googlemail.com",
+      "car": "Land Rover Discovery"
+    },
+    {
+      "o;?\"firstName\"": "Susan"
+    },
+    {
+      "o;?\"firstName\"": "David"
+    },
+    {
+      "o;?\"firstName\"": "Jessica",
+      "lastName": "Lescott",
+      "email": "jessicalescott@googlemail.com",
+      "car": "Range Rover Evoque"
+    },
+    {
+      "o;?\"firstName\"": "Sandra",
+      "lastName": "Montgomery",
+      "email": "sandramontgomery@hotmail.co.uk",
+      "car": "Ford Fiesta ST"
+    },
+    {
+      "o;?\"firstName\"": "Mark",
+      "lastName": "Lescott",
+      "email": "marklescott@outlook.com",
+      "car": "Audi R8"
+    },
+    {
+      "o;?\"firstName\"": "Christopher",
+      "lastName": "Martin",
+      "email": "christophermartin@aol.com",
+      "car": "Vauxhall Corsa"
+    },
+    {
+      "o;?\"firstName\"": "Mark",
+      "lastName": "Smith",
+      "email": "marksmith@example.com",
+      "car": "Audi A4"
+    },
+    {
+      "o;?\"firstName\"": "Emily"
+    },
+    {
+      "o;?\"firstName\"": "Karen"
+    },
+    {
+      "o;?\"firstName\"": "Barbara",
+      "lastName": "Baxter",
+      "email": "barbarabaxter@hotmail.com",
+      "car": "Mercedes-Benz AMG GT"
+    },
+    {
+      "o;?\"firstName\"": "Stephen",
+      "lastName": "Jenkins",
+      "email": "stephenjenkins@googlemail.com",
+      "car": "Vauxhall Adam"
+    },
+    {
+      "o;?\"firstName\"": "Joseph",
+      "lastName": "Barry",
+      "email": "josephbarry@aol.com",
+      "car": "Range Rover Sport"
+    },
+    {
+      "o;?\"firstName\"": "Michael",
+      "lastName": "Lescott",
+      "email": "michaellescott@gmail.com",
+      "car": "Vauxhall Astra"
+    },
+    {
+      "o;?\"firstName\"": "Joshua",
+      "lastName": "Anderson",
+      "email": "joshuaanderson@aol.com",
+      "car": "Vauxhall Insignia"
+    },
+    {
+      "o;?\"firstName\"": "Christopher"
+    },
+    {
+      "o;?\"firstName\"": "Martin"
+    },
+    {
+      "o;?\"firstName\"": "John",
+      "lastName": "Montgomery",
+      "email": "johnmontgomery@live.com",
+      "car": "Range Rover Evoque"
+    },
+    {
+      "o;?\"firstName\"": "Christopher",
+      "lastName": "Murray",
+      "email": "christophermurray@googlemail.com",
+      "car": "Vauxhall Corsa"
+    },
+    {
+      "o;?\"firstName\"": "Susan",
+      "lastName": "Owen",
+      "email": "susanowen@googlemail.com",
+      "car": "Ford Focus ST"
+    },
+    {
+      "o;?\"firstName\"": "Betty",
+      "lastName": "Montgomery",
+      "email": "bettymontgomery@hotmail.co.uk",
+      "car": "Mercedes-Benz A Class AMG"
+    },
+    {
+      "o;?\"firstName\"": "Oscar",
+      "lastName": "Baxter",
+      "email": "oscarbaxter@hotmail.co.uk",
+      "car": "Range Rover Sport"
+    },
+    {
+      "o;?\"firstName\"": "John"
+    },
+    {
+      "o;?\"firstName\"": "Sarah"
+    },
+    {
+      "o;?\"firstName\"": "Martin",
+      "lastName": "Baxter",
+      "email": "martinbaxter@live.co.uk",
+      "car": "Mercedes-Benz AMG GT"
+    },
+    {
+      "o;?\"firstName\"": "Bernard",
+      "lastName": "Hayes",
+      "email": "bernardhayes@hotmail.co.uk",
+      "car": "Mercedes-Benz AMG GT"
+    },
+    {
+      "o;?\"firstName\"": "Daniel",
+      "lastName": "Jenkins",
+      "email": "danieljenkins@aol.com",
+      "car": "Audi A3"
+    },
+    {
+      "o;?\"firstName\"": "Nancy",
+      "lastName": "Smith",
+      "email": "nancysmith@googlemail.com",
+      "car": "Mercedes-Benz C Class AMG"
+    },
+    {
+      "o;?\"firstName\"": "Daniel",
+      "lastName": "McGregor",
+      "email": "danielmcgregor@googlemail.com",
+      "car": "Range Rover Sport"
+    }
+  ],
+  "errors": [
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 5
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 6
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 17
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 18
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 24
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 25
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 31
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 32
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 38
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 39
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 45
+    },
+    {
+      "type": "FieldMismatch",
+      "code": "TooFewFields",
+      "message": "Too few fields: expected 4 fields but parsed 1",
+      "row": 46
+    }
+  ],
+  "meta": {
+    "delimiter": ",",
+    "linebreak": "\n",
+    "aborted": false,
+    "truncated": false,
+    "cursor": 2686,
+    "fields": [
+      "o;?\"firstName\"",
+      "lastName",
+      "email",
+      "car"
+    ]
+  }
+}
